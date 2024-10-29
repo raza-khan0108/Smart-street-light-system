@@ -6,7 +6,6 @@ This project implements a smart street light system using a NodeMCU (ESP8266), u
 - [Project Overview](#project-overview)
 - [Features](#features)
 - [Components Required](#components-required)
-- [Circuit Diagram](#circuit-diagram)
 - [Setup and Installation](#setup-and-installation)
 - [Usage](#usage)
 - [Code Explanation](#code-explanation)
@@ -37,10 +36,6 @@ The smart street light system uses NodeMCU to control an LED light, which turns 
 - Push Button (for panic notification)
 - Jumper Wires
 - Blynk App (installed on a smartphone)
-
-## Circuit Diagram
-
-![Circuit Diagram](#) <!-- Link to circuit diagram image if available -->
 
 ## Setup and Installation
 
